@@ -9,6 +9,7 @@ import "../css/style.css"
 export default function Home() {
   return (
     <div class="main">
+      <title>Kalevalio MATAILA</title>
       <div class="container">
         <h1>MATAILA Kalevalio</h1>
         <StaticImage 
